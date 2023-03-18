@@ -1,4 +1,7 @@
 “This is first feature of our application.”
+<<<<<<< HEAD
 This is the bug fix in development branch
 This is gadbad codes
 This feature will gadbad everything from now.
+=======
+>>>>>>> parent of 2c4b8a5 (Added feature2 in development branch)
